@@ -20,13 +20,6 @@
 
 
 
-<a href="https://codetrace.com/users/theabbie"><img src="https://codetrace.com/widget/theabbie" width="220" height="50" /></a>
-
-<img src="http://www.hackthebox.eu/badge/image/370240" alt="Hack The Box">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabbie&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&layout=compact&theme=radical" />
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabbie&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark)
