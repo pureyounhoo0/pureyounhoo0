@@ -17,8 +17,3 @@
 <img src="https://img.shields.io/badge/ Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&layout=compact&theme=radical" />
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabbie&theme=github_dark)
-)
