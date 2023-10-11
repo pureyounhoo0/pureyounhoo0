@@ -20,9 +20,5 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark)
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theabbie)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pureyounhoo0&layout=compact&langs_count=3
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabbie&theme=github_dark)
 )
