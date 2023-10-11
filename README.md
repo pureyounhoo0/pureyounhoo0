@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
-## I'm studying~📖
+## 📖I'm studying~
 <div>
 <img src="https://img.shields.io/badge/html-%23E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-%231572B6?style=flat-square&logo=css3&logoColor=white"/>
