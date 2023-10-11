@@ -16,4 +16,4 @@
 <h3 style="display: inline"> 🔨Tool</h3>
 <img src="https://img.shields.io/badge/ Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </div>
-<img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&layout=compact&theme=radical](https://github.com/pureyounhoo0)" />
+<img align="center" src="https://github.com/pureyounhoo0" />
